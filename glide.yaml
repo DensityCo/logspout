@@ -8,3 +8,4 @@ import:
   subpackages:
   - websocket
 - package: github.com/micahhausler/logspout-gelf
+- package: github.com/raychaser/logspout-http/http
