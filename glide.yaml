@@ -7,5 +7,5 @@ import:
 - package: golang.org/x/net
   subpackages:
   - websocket
-- package: github.com/micahhausler/logspout-gelf
+- package: github.com/densityco/logspout-gelf
 - package: github.com/densityco/logspout-http/http
